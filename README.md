@@ -38,9 +38,8 @@ Known working connectors:
 
 1. (Optional) Make a Time machine Backup
 2. Apply Kapton Tape to insulate pins
-![](kapton-1.png)
-![](kapton-2.png)
-
+![](kapton-1.jpg)
+![](kapton-2.jpg)
 3. Install new SSD with adaptor
 4. Boot with Linux USB, use `fdisk` to make partitions. Type `Linux` is good enough.
 5. Boot with High Sierra USB, use Disk Utility to repartition/format disk into APFS with GUID partition table.
